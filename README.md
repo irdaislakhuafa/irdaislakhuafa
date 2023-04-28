@@ -1,6 +1,6 @@
 Hi , i'm `Irda Islakhu Afa`
 
-<b>I'm Software Developer</b> from Indonesia. I always like to learn new things in the world of technology. Currenly, i'm focusing on exploring the profession as <b>Backend Developer</b> using `Java` and `Go` Programming languages. Apart from these two languages sometime i learn mobile programming languages such as Dart with Flutter as Dart Frameworks. More than 2 years of experience using Java with Spring Boot Framework and Go native (currently always use builtin package from Go and some packages from other developers) and always try to improve my skills. I really love this fun profession of being a Software Developer. The green dots on my [**GitHub**](https://github.com/irdaislakhuafa) page represent my journey
+<b>I'm Software Developer</b> from Indonesia. I always like to learn new things in the world of technology. Currenly, i'm focusing on exploring the profession as <b>Backend Developer</b> using `Java` and `Go` Programming languages. Apart from these two languages sometime i learn mobile programming languages such as `Dart` with `Flutter` as `Dart Frameworks`. More than 2 years of experience using `Java` with `Spring Boot Framework` and `Go` native (currently always use `builtin` package from `Go` and some packages from other developers) and always try to improve my skills. I really love this fun profession of being a `Software Developer`. The green dots on my [**GitHub**](https://github.com/irdaislakhuafa) page represent my journey
 
 - Reach me in irdhaislakhuafa@gmail.com
 - I'm mostly active in 
