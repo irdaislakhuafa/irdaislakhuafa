@@ -15,6 +15,7 @@ Hi , i'm `Irda Islakhu Afa`
 <br>
 
 
-![Irda Islakhu Afa's github stats](https://github-readme-stats.vercel.app/api?username=irdaislakhuafa&show_icons=true&count_private=true&theme=dark)
+![Irda Islakhu Afa's github stats](https://github-readme-stats.vercel.app/api?username=irdaislakhuafa&show_icons=true&count_private=true&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irdaislakhuafa&theme=github_dark)
 
 </details>
